@@ -42,4 +42,5 @@ Simulink Onramp – a free three-hour introductory tutorial that teaches the ess
 
 # Products Used
 
-MATLAB, Simulink, Aerospace Blockset
+MATLAB, Simulink, Aerospace Toolbox, Aerospace Blockset, UAV Toolbox, Simulink 3D Animation
+
